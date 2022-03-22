@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name signal_splitter-rescue)(type Legacy)(uri ${KIPRJMOD}/signal_splitter-rescue.lib)(options "")(descr ""))
+)
